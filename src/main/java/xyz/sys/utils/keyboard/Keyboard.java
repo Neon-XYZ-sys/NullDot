@@ -9,4 +9,10 @@ public class Keyboard {
         long handle = client.getWindow().getHandle();
         return GLFW.glfwGetKey(handle, keyCode) == GLFW.GLFW_PRESS;
     }
+
+    public static boolean isKeyRelease(int keyCode) {
+        MinecraftClient client = MinecraftClient.getInstance();
+        long handle = client.getWindow().getHandle();
+        return GLFW.glfwGetKey(handle, keyCode) == GLFW.GLFW_RELEASE;
+    }
 }

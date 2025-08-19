@@ -1,0 +1,67 @@
+{
+  "providers": [
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-Black.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    },
+
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-BlackItalic.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    },
+
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-Bold.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    },
+
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-BoldItalic.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    },
+
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-Extrabold.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    },
+
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-ExtraboldItalic.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    },
+
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-Heavy.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    },
+
+    {
+      "type": "minecraft:ttf",
+      "file": "null-dot:fonts/Gilroy-HeavyItalic.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 4.0
+    }
+  ]
+}

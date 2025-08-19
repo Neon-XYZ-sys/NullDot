@@ -3,7 +3,8 @@
 	"package": "xyz.sys.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"MainMixin"
+		"HudMixin",
+        "ClickGUIMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

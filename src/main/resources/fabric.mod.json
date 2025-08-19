@@ -1,26 +1,27 @@
 {
 	"schemaVersion": 1,
-	"id": "template-mod",
+	"id": "null-dot",
 	"version": "${version}",
-	"name": "Template Mod",
+	"name": "NullDot",
 	"description": "This is an example description! Tell everyone what your mod is about!",
+    "accessWidener": "null-dot.accesswidener",
 	"authors": [
-		"Me!"
+		"Neon-XYZ-sys"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/template-mod/icon.png",
+	"icon": "assets/null-dot/nullDot.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"xyz.sys.TemplateMod"
+          "xyz.sys.NullDot"
 		]
 	},
 	"mixins": [
-		"template-mod.mixins.json"
+      "null-dot.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",
